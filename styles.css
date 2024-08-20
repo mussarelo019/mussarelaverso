@@ -15,7 +15,7 @@ header {
 }
 
 .chamada {
-    background: rgb(184, 156, 213); /* Cor de fundo roxa original */
+    background: #fafa1b; /* Cor de fundo roxa original */
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
